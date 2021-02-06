@@ -1,5 +1,6 @@
 # Yo-Bitcoin
-Chrome extension that turns the scrollbar orange if the word bitcoin is on the page\
+Yo! Stop wasting your time on shitcoins.\
+This Chrome extension turns the scrollbar orange if the word bitcoin is on the page\
 \
 ![alt text](https://therealsatoshi.com/yo-bitcoin.png)
 ## Run Locally
